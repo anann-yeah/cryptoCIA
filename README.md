@@ -24,6 +24,8 @@ This project was developed through a structured AI-collaborative process. Below 
 
 The Core Logic: "Can you write a custom hash algorithm in Python that uses a Running Key Cipher concept? It needs to take a string message, mix it with a running key, use bitwise operations to create an avalanche effect, and output a fixed 32-character hexadecimal hash."
 
-Developed by: Anannya
+Name : Anannya
+23011102075
+Iot - B
 
 Course: CSE(Iot) - Cryptography Assignment CIA.
